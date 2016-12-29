@@ -1,0 +1,13 @@
+Package: gettext
+Type: Package
+Title: A reproducible example for gettext
+Version: 0.0.1.9000
+Author: Pierre Formont <pierre.formont@gmail.com>
+Maintainer: Pierre Formont <pierre.formont@gmail.com>
+Description: Just a few lines of code to try to understand why gettext does not always use translations.
+Imports: 
+    shiny
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
